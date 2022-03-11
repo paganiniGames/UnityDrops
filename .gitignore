@@ -1,0 +1,25 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TwitchConnectionOnUnity-StreamingClientLibrary/src/.vs/My project/v17
+/TwitchConnectionOnUnity-StreamingClientLibrary/src/UserSettings
+/TwitchConnectionOnUnity-StreamingClientLibrary/src/.vsconfig
+/TwitchConnectionOnUnity-StreamingClientLibrary/src/Library
+/TwitchConnectionOnUnity-StreamingClientLibrary/src/Logs
+/TwitchConnectionOnUnity-StreamingClientLibrary/src/obj
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
